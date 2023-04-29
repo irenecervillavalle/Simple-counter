@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+.counter-fsize{
+    font-size: 58px;
+    color: aliceblue;
+}
+.counter-container{
+    border: 1px solid lightgrey;
+    background-color: black;
+    margin-left: 6px;
+    margin-right: 6px;
+    text-align: center;
+    width: 60px;
+}
